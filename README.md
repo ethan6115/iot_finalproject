@@ -12,19 +12,19 @@ Launch the following services:
 - Node-RED
 - JupyterLab
 
----
+
 
 ### 2. Configure Node-RED
 
 Set up the required Node-RED nodes according to the provided `Node-RED.html` configuration.
 
----
+
 
 ### 3. Launch the App
 
 Open the app and enter the IP address where OM2M is running.
 
----
+
 
 ### 4. Run the Fish Tank Simulator
 
